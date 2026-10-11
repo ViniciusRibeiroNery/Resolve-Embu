@@ -97,3 +97,4 @@ Todos cidadãos de Embu das artes e região.
 | Versão | Data | Alteração realizada |
 |---|---|---|
 | 0.0.1 | Data: 10/10/2026 - Horário: 23:49 | Criação dos levantamentos de requisitos |
+| 0.0.1 | Data: 11/10/2026 - Horário: 16:39 | Criação do fluxograma principal do usuário |
