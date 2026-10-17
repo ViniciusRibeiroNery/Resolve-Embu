@@ -1,8 +1,8 @@
-# Levantamento de Requisitos — Resolve Parque Pirajussara
+# Levantamento de Requisitos — Resolve Embu
 
 ## 1. Identificação do Projeto
 
-**Nome do projeto: Resolve Parque Pirajussara**
+**Nome do projeto: Resolve Embu**
 
 **Autor(es): Vinicius Ribeiro Nery**
 
@@ -14,7 +14,7 @@
 
 ### 2.1 Objetivo do Projeto
 
-O objetivo do "Resolve Parque Pirajussara" é registrar, mapear e analisar os problemas que são enfrentados pela população localizada na região do Embu das artes.
+O objetivo do "Resolve Embu" é registrar, mapear e analisar os problemas que são enfrentados pela população localizada na região do Embu das artes.
 
 ### 2.2 Problema Identificado
 
